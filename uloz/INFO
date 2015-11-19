@@ -1,0 +1,10 @@
+{
+        "name": "Uloz.to",
+        "hostprefix": "uloz.to,ulozto.sk,ulozto.cz",
+        "displayname": "Uloz.to",
+        "version": "0.31",
+        "authentication": "yes",
+        "module": "host.php",
+        "class": "HostingUlozto",
+        "description": "Premium account supported"
+}
