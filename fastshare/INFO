@@ -1,0 +1,10 @@
+{
+"name": "Fastshare.cz",
+"hostprefix": "fastshare.cz",
+"displayname": "Fastshare.cz",
+"version": "1.0",
+"authentication": "yes",
+"module": "host.php",
+"class": "SynoFileHostingFastshare",
+"description": "Fastshare download service."
+}
