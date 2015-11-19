@@ -1,0 +1,10 @@
+{
+"name": "bitsnoop",
+"displayname": "BitSnoop",
+"description": "BitSnoop P2P Search",
+"version": "1.1",
+"site": "http://bitsnoop.com",
+"module": "search.php",
+"type": "search",
+"class": "TorrentSearchBitSnoop"
+}
