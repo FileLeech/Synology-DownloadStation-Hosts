@@ -1,0 +1,10 @@
+{
+"name": "divxTotal",
+"hostprefix": "divxtotal.com",
+"displayname": "DivXTotal",
+"version": "1.0",
+"authentication": "no",
+"module": "host.php",
+"class": "SynoFileHostingDivxTotal",
+"description": "DivxTotaL.com - Peliculas - Series -Musica y mucho mas" 
+}
