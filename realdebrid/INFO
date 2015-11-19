@@ -1,0 +1,10 @@
+{
+    "authentication": "yes",
+    "class": "RealDebridFileHost",
+    "description": "Real-Debrid.com",
+    "displayname": "Real-Debrid",
+    "hostprefix": "ul.to,uploaded.net,rapidgator.net,filefactory.com,mega.co.nz",
+    "module": "realdebrid.php",
+    "name": "realdebrid2",
+    "version": "0.1"
+}
