@@ -1,0 +1,10 @@
+{
+"name": "turbobit",
+"hostprefix": "turbobit.net",
+"displayname": "Turbobit",
+"version": "1.2",
+"authentication": "yes",
+"module": "host.php",
+"class": "SynoFileHostingTurbobit",
+"description": "Premium account supported."
+}
