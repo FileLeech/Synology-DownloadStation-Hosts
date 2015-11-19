@@ -1,0 +1,10 @@
+{
+	"name": "ryushare",
+	"hostprefix": "ryushare.com",
+	"displayname": "RyuShare",
+	"version": "1.0",
+	"authentication": "yes",
+	"module": "myhost.php",
+	"class": "FileHostingRyuShare",
+	"description": "Premium account supported."
+}
