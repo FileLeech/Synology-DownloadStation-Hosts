@@ -1,0 +1,10 @@
+{
+"name": "Ulozto.cz",
+"hostprefix": "ulozto.cz",
+"displayname": "Ulozto.cz",
+"version": "0.33",
+"authentication": "yes",
+"module": "ulozto.php",
+"class": "SynoFileHostingUlozto",
+"description": "Premium account supported"
+}
