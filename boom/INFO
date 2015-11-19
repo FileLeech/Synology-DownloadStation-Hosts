@@ -1,0 +1,10 @@
+{
+  "name": "Oboom",
+  "hostprefix": "oboom.com",
+  "displayname": "Oboom",
+  "version": "1.0",
+  "authentication": "yes",
+  "module": "oboom.php",
+  "class": "SynoFileHostingOboom",
+  "description": "Premium account supported."
+}
